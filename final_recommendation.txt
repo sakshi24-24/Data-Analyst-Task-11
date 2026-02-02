@@ -1,0 +1,7 @@
+
+Final Recommendation:
+The A/B test resulted in a p-value of 1.9990e-13. 
+Since this is less than 0.05, we reject the null hypothesis.
+The advertisement group showed a conversion rate of 2.55%, 
+outperforming the PSA group (1.79%).
+Business Decision: Scale the advertisement campaign.
